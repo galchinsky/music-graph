@@ -1,0 +1,3 @@
+[submodule "graph-editor.js"]
+path = graph-editor.js
+url = git://github.com/galchinsky/graph-editor.js.git
